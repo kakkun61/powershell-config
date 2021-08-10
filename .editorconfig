@@ -1,0 +1,14 @@
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
+
+[Makefile]
+indent_style = tab
+
+[*.{psd1,psm1,ps1}]
+charset = utf-8-bom
+end_of_line = crlf
