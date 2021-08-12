@@ -95,19 +95,19 @@ PrivateData = @{
     PSData = @{
 
         # このモジュールに適用されているタグ。オンライン ギャラリーでモジュールを検出する際に役立ちます。
-        Tags = @()
+        Tags = @('configuration')
 
         # このモジュールのライセンスの URL。
-        LicenseUri = ''
+        LicenseUri = 'https://github.com/kakkun61/powershell-config/blob/1.0/COPYING'
 
         # このプロジェクトのメイン Web サイトの URL。
-        ProjectUri = ''
+        ProjectUri = 'https://github.com/kakkun61/powershell-config'
 
         # このモジュールを表すアイコンの URL。
         # IconUri = ''
 
         # このモジュールの ReleaseNotes
-        ReleaseNotes = ''
+        ReleaseNotes = 'https://github.com/kakkun61/powershell-config/blob/1.0/ChangeLog.md'
 
         ExternalModuleDependencies = @()
 
