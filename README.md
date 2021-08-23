@@ -16,7 +16,7 @@ This module treats three types of configurations:
 
 A local configuration is named _`$appname`.yaml_ and located at the current working directory or its parents recursively.
 
-## User global configuration
+## System global configuration
 
 A user global configuration is named _config.yaml_ and located at _`$Env:APPDATA\$appname`_.
 
